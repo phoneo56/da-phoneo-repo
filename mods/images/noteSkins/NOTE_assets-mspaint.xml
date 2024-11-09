@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NOTE_assets-mspaint.png">
+<SubTexture name="red0000" x="0" y="0" width="154" height="158" frameX="-8" frameY="-6" frameWidth="171" frameHeight="170" />
+<SubTexture name="blue0000" x="308" y="0" width="158" height="154" frameX="-6" frameY="-8" frameWidth="170" frameHeight="171" />
+<SubTexture name="purple0000" x="154" y="0" width="154" height="158" frameX="-9" frameY="-6" frameWidth="171" frameHeight="170" />
+<SubTexture name="green0000" x="0" y="158" width="158" height="154" frameX="-6" frameY="-9" frameWidth="170" frameHeight="171" />
+</TextureAtlas>

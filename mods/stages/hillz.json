@@ -1,0 +1,152 @@
+{
+	"objects": [
+		{
+			"x": -1020,
+			"y": -440,
+			"scale": [
+				4850,
+				2000
+			],
+			"filters": 3,
+			"color": "0000FF",
+			"angle": 0,
+			"name": "sprite1",
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "square"
+		},
+		{
+			"x": 848,
+			"y": 147,
+			"scale": [
+				1,
+				1
+			],
+			"image": "baby",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 10,
+			"name": "baby",
+			"firstAnimation": "badopinion",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"offsets": [
+						-1,
+						0
+					],
+					"indices": [],
+					"fps": 28,
+					"anim": "badopinion",
+					"loop": true,
+					"name": "baby opinion"
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": -930,
+			"y": 705,
+			"scale": [
+				4400,
+				1150
+			],
+			"filters": 3,
+			"color": "008000",
+			"angle": 0,
+			"name": "sprite2",
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "square"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		},
+		{
+			"x": 1220,
+			"y": 370,
+			"scale": [
+				2,
+				2
+			],
+			"image": "book",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "book",
+			"firstAnimation": "bouncing",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"offsets": null,
+					"indices": [],
+					"fps": 24,
+					"anim": "bouncing",
+					"loop": true,
+					"name": "book bob"
+				}
+			],
+			"type": "animatedSprite"
+		}
+	],
+	"camera_opponent": [
+		0,
+		0
+	],
+	"girlfriend": [
+		400,
+		130
+	],
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"gf": "gf",
+		"dad": "dad"
+	},
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"boyfriend": [
+		770,
+		100
+	],
+	"opponent": [
+		100,
+		100
+	],
+	"hide_girlfriend": false,
+	"directory": "",
+	"camera_speed": 1,
+	"defaultZoom": 0.9,
+	"stageUI": "normal",
+	"camera_boyfriend": [
+		0,
+		0
+	]
+}
