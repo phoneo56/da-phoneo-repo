@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		30,
+		130
+	],
+	"scale": 1.5,
+	"animations": [
+		{
+			"loop_name": "superphoneo dialouge silly",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "",
+			"anim": "silly",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "superphoneo dialouge"
+}

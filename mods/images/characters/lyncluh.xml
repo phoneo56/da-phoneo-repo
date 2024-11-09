@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lyncluh.png">
+<SubTexture name="lyncluh idle0000" x="0" y="0" width="344" height="297" frameX="0" frameY="0" frameWidth="344" frameHeight="297" />
+<SubTexture name="lyncluh idle0001" x="344" y="0" width="344" height="297" frameX="0" frameY="0" frameWidth="344" frameHeight="297" />
+<SubTexture name="lyncluh up0000" x="0" y="297" width="344" height="297" frameX="0" frameY="0" frameWidth="344" frameHeight="297" />
+<SubTexture name="lyncluh up0001" x="344" y="297" width="344" height="297" frameX="0" frameY="0" frameWidth="344" frameHeight="297" />
+<SubTexture name="lyncluh up0002" x="688" y="0" width="344" height="297" frameX="0" frameY="0" frameWidth="344" frameHeight="297" />
+<SubTexture name="lyncluh down0000" x="688" y="297" width="344" height="297" frameX="0" frameY="0" frameWidth="344" frameHeight="297" />
+<SubTexture name="lyncluh down0001" x="0" y="594" width="344" height="297" frameX="0" frameY="0" frameWidth="344" frameHeight="297" />
+<SubTexture name="lyncluh down0002" x="344" y="594" width="344" height="297" frameX="0" frameY="0" frameWidth="344" frameHeight="297" />
+<SubTexture name="lyncluh down0003" x="688" y="594" width="344" height="297" frameX="0" frameY="0" frameWidth="344" frameHeight="297" />
+<SubTexture name="lyncluh right0000" x="1032" y="0" width="344" height="297" frameX="0" frameY="0" frameWidth="344" frameHeight="297" />
+<SubTexture name="lyncluh right0001" x="1032" y="297" width="344" height="297" frameX="0" frameY="0" frameWidth="344" frameHeight="297" />
+<SubTexture name="lyncluh right0002" x="1032" y="594" width="344" height="297" frameX="0" frameY="0" frameWidth="344" frameHeight="297" />
+<SubTexture name="lyncluh right0003" x="0" y="891" width="344" height="297" frameX="0" frameY="0" frameWidth="344" frameHeight="297" />
+<SubTexture name="lyncluh left0000" x="344" y="891" width="344" height="297" frameX="0" frameY="0" frameWidth="344" frameHeight="297" />
+<SubTexture name="lyncluh left0001" x="688" y="891" width="344" height="297" frameX="0" frameY="0" frameWidth="344" frameHeight="297" />
+</TextureAtlas>

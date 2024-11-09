@@ -1,0 +1,4 @@
+mods/data/lncuhyl/lncuhyl.json
+mods/data/lncuhyl/mod.txt
+mods/songs/lncuhyl/Inst.ogg
+mods/songs/lncuhyl/inst.ogg

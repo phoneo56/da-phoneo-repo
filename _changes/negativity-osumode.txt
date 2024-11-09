@@ -1,0 +1,3 @@
+mods/data/negativity/negativity.json
+mods/songs/negativity/Inst.ogg
+mods/songs/negativity/inst.ogg

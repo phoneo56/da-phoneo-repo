@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="superphoneo dialouge.png">
+<SubTexture name="superphoneo dialouge silly0000" x="0" y="0" width="355" height="295" frameX="0" frameY="0" frameWidth="355" frameHeight="295" />
+<SubTexture name="superphoneo dialouge silly0001" x="355" y="0" width="355" height="295" frameX="0" frameY="0" frameWidth="355" frameHeight="295" />
+</TextureAtlas>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="superphoneo.png">
+<SubTexture name="superphoneo up0000" x="380" y="0" width="243" height="208" frameX="-305" frameY="0" frameWidth="862" frameHeight="313" />
+<SubTexture name="superphoneo down0000" x="623" y="0" width="208" height="185" frameX="-311" frameY="-73" frameWidth="862" frameHeight="313" />
+<SubTexture name="superphoneo left0000" x="380" y="208" width="177" height="206" frameX="-328" frameY="-39" frameWidth="862" frameHeight="313" />
+<SubTexture name="superphoneo right0000" x="208" y="0" width="172" height="227" frameX="-392" frameY="-15" frameWidth="862" frameHeight="313" />
+<SubTexture name="superphoneo idle0000" x="0" y="0" width="208" height="483" frameX="-155" frameY="-12" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

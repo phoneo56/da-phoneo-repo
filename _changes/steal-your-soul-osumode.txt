@@ -1,0 +1,4 @@
+mods/data/steal-your-soul/mod.txt
+mods/data/steal-your-soul/steal-your-soul.json
+mods/songs/steal-your-soul/Inst.ogg
+mods/songs/steal-your-soul/inst.ogg

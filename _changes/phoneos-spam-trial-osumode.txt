@@ -1,0 +1,4 @@
+mods/data/phoneos-spam-trial/mod.txt
+mods/data/phoneos-spam-trial/phoneos-spam-trial-hell.json
+mods/songs/phoneos-spam-trial/Inst.ogg
+mods/songs/phoneos-spam-trial/inst.ogg

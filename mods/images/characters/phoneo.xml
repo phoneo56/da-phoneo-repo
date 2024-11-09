@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="phoneo.png">
+<SubTexture name="phoneo idle0000" x="0" y="0" width="236" height="387" frameX="-164" frameY="-15" frameWidth="559" frameHeight="431" />
+<SubTexture name="phoneo left0000" x="236" y="0" width="297" height="387" frameX="-103" frameY="-15" frameWidth="559" frameHeight="431" />
+<SubTexture name="phoneo right0000" x="533" y="0" width="194" height="387" frameX="-206" frameY="-15" frameWidth="559" frameHeight="431" />
+<SubTexture name="phoneo right0001" x="727" y="0" width="183" height="387" frameX="-217" frameY="-15" frameWidth="559" frameHeight="431" />
+<SubTexture name="phoneo right0002" x="0" y="387" width="182" height="387" frameX="-218" frameY="-15" frameWidth="559" frameHeight="431" />
+<SubTexture name="phoneo right0003" x="182" y="387" width="182" height="387" frameX="-218" frameY="-15" frameWidth="559" frameHeight="431" />
+<SubTexture name="phoneo right0004" x="364" y="387" width="182" height="387" frameX="-218" frameY="-15" frameWidth="559" frameHeight="431" />
+<SubTexture name="phoneo right0005" x="546" y="387" width="202" height="387" frameX="-218" frameY="-15" frameWidth="559" frameHeight="431" />
+<SubTexture name="phoneo right0006" x="910" y="0" width="223" height="387" frameX="-218" frameY="-15" frameWidth="559" frameHeight="431" />
+<SubTexture name="phoneo right0007" x="1133" y="0" width="247" height="387" frameX="-218" frameY="-15" frameWidth="559" frameHeight="431" />
+<SubTexture name="phoneo down0000" x="1133" y="387" width="234" height="387" frameX="-166" frameY="-15" frameWidth="559" frameHeight="431" />
+<SubTexture name="phoneo down0001" x="0" y="774" width="236" height="387" frameX="-166" frameY="-15" frameWidth="559" frameHeight="431" />
+<SubTexture name="phoneo down0002" x="236" y="774" width="239" height="387" frameX="-166" frameY="-15" frameWidth="559" frameHeight="431" />
+<SubTexture name="phoneo down0003" x="475" y="774" width="238" height="387" frameX="-167" frameY="-15" frameWidth="559" frameHeight="431" />
+<SubTexture name="phoneo up0000" x="713" y="774" width="236" height="387" frameX="-164" frameY="-15" frameWidth="559" frameHeight="431" />
+</TextureAtlas>

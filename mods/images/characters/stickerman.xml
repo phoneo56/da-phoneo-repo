@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="stickerman.png">
+<SubTexture name="stickerman up0000" x="0" y="0" width="500" height="445" frameX="0" frameY="0" frameWidth="500" frameHeight="445" />
+<SubTexture name="stickerman up0001" x="500" y="0" width="500" height="445" frameX="0" frameY="0" frameWidth="500" frameHeight="445" />
+<SubTexture name="stickerman up0002" x="0" y="445" width="500" height="445" frameX="0" frameY="0" frameWidth="500" frameHeight="445" />
+<SubTexture name="stickerman right0000" x="500" y="445" width="500" height="445" frameX="0" frameY="0" frameWidth="500" frameHeight="445" />
+<SubTexture name="stickerman right0001" x="1000" y="0" width="500" height="445" frameX="0" frameY="0" frameWidth="500" frameHeight="445" />
+<SubTexture name="stickerman right0002" x="1000" y="445" width="500" height="445" frameX="0" frameY="0" frameWidth="500" frameHeight="445" />
+<SubTexture name="stickerman left0000" x="0" y="890" width="500" height="445" frameX="0" frameY="0" frameWidth="500" frameHeight="445" />
+<SubTexture name="stickerman left0001" x="500" y="890" width="500" height="445" frameX="0" frameY="0" frameWidth="500" frameHeight="445" />
+<SubTexture name="stickerman left0002" x="1000" y="890" width="500" height="445" frameX="0" frameY="0" frameWidth="500" frameHeight="445" />
+<SubTexture name="stickerman idle0000" x="1500" y="0" width="500" height="445" frameX="0" frameY="0" frameWidth="500" frameHeight="445" />
+<SubTexture name="stickerman down0000" x="1500" y="445" width="500" height="445" frameX="0" frameY="0" frameWidth="500" frameHeight="445" />
+<SubTexture name="stickerman idle0001" x="1500" y="890" width="500" height="445" frameX="0" frameY="0" frameWidth="500" frameHeight="445" />
+<SubTexture name="stickerman idle0002" x="0" y="1335" width="500" height="445" frameX="0" frameY="0" frameWidth="500" frameHeight="445" />
+<SubTexture name="stickerman hurt0000" x="500" y="1335" width="500" height="445" frameX="0" frameY="0" frameWidth="500" frameHeight="445" />
+<SubTexture name="stickerman hurt0001" x="1000" y="1335" width="500" height="445" frameX="0" frameY="0" frameWidth="500" frameHeight="445" />
+<SubTexture name="stickerman hurt0002" x="1500" y="1335" width="500" height="445" frameX="0" frameY="0" frameWidth="500" frameHeight="445" />
+<SubTexture name="stickerman hurt0003" x="2000" y="0" width="500" height="445" frameX="0" frameY="0" frameWidth="500" frameHeight="445" />
+<SubTexture name="stickerman hurt0004" x="2000" y="445" width="500" height="445" frameX="0" frameY="0" frameWidth="500" frameHeight="445" />
+</TextureAtlas>

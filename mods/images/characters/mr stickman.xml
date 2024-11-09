@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mr stickman.png">
+<SubTexture name="mr stickman up0000" x="0" y="0" width="287" height="313" frameX="0" frameY="0" frameWidth="287" frameHeight="313" />
+<SubTexture name="mr stickman up0001" x="287" y="0" width="287" height="313" frameX="0" frameY="0" frameWidth="287" frameHeight="313" />
+<SubTexture name="mr stickman up0002" x="574" y="0" width="287" height="313" frameX="0" frameY="0" frameWidth="287" frameHeight="313" />
+<SubTexture name="mr stickman right0000" x="0" y="313" width="287" height="313" frameX="0" frameY="0" frameWidth="287" frameHeight="313" />
+<SubTexture name="mr stickman right0001" x="287" y="313" width="287" height="313" frameX="0" frameY="0" frameWidth="287" frameHeight="313" />
+<SubTexture name="mr stickman right0002" x="574" y="313" width="287" height="313" frameX="0" frameY="0" frameWidth="287" frameHeight="313" />
+<SubTexture name="mr stickman right0003" x="861" y="0" width="287" height="313" frameX="0" frameY="0" frameWidth="287" frameHeight="313" />
+<SubTexture name="mr stickman left0000" x="861" y="313" width="287" height="313" frameX="0" frameY="0" frameWidth="287" frameHeight="313" />
+<SubTexture name="mr stickman left0001" x="0" y="626" width="287" height="313" frameX="0" frameY="0" frameWidth="287" frameHeight="313" />
+<SubTexture name="mr stickman left0002" x="287" y="626" width="287" height="313" frameX="0" frameY="0" frameWidth="287" frameHeight="313" />
+<SubTexture name="mr stickman left0003" x="574" y="626" width="287" height="313" frameX="0" frameY="0" frameWidth="287" frameHeight="313" />
+<SubTexture name="mr stickman down0000" x="861" y="626" width="287" height="313" frameX="0" frameY="0" frameWidth="287" frameHeight="313" />
+<SubTexture name="mr stickman down0001" x="1148" y="0" width="287" height="313" frameX="0" frameY="0" frameWidth="287" frameHeight="313" />
+<SubTexture name="mr stickman down0002" x="1148" y="313" width="287" height="313" frameX="0" frameY="0" frameWidth="287" frameHeight="313" />
+<SubTexture name="mr stickman idle0000" x="1148" y="626" width="287" height="313" frameX="0" frameY="0" frameWidth="287" frameHeight="313" />
+<SubTexture name="mr stickman idle0001" x="0" y="939" width="287" height="313" frameX="0" frameY="0" frameWidth="287" frameHeight="313" />
+<SubTexture name="mr stickman idle0002" x="287" y="939" width="287" height="313" frameX="0" frameY="0" frameWidth="287" frameHeight="313" />
+<SubTexture name="mr stickman underpants dance0000" x="574" y="939" width="287" height="313" frameX="0" frameY="0" frameWidth="287" frameHeight="313" />
+<SubTexture name="mr stickman underpants dance0001" x="861" y="939" width="287" height="313" frameX="0" frameY="0" frameWidth="287" frameHeight="313" />
+<SubTexture name="mr stickman wedgie wiggle0000" x="1148" y="939" width="287" height="313" frameX="0" frameY="0" frameWidth="287" frameHeight="313" />
+<SubTexture name="mr stickman wedgie wiggle0001" x="1435" y="0" width="287" height="313" frameX="0" frameY="0" frameWidth="287" frameHeight="313" />
+</TextureAtlas>

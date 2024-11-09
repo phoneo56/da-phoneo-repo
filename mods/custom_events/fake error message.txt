@@ -1,0 +1,5 @@
+you can send a message to this event in the upper left corner!
+
+value1 : text
+
+value2 : nothing

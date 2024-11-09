@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="thing.png">
+<SubTexture name="thing up0000" x="475" y="0" width="276" height="128" frameX="-20" frameY="-42" frameWidth="296" frameHeight="225" />
+<SubTexture name="thing up0001" x="475" y="128" width="248" height="124" frameX="-34" frameY="-46" frameWidth="296" frameHeight="225" />
+<SubTexture name="thing up0002" x="0" y="0" width="179" height="225" frameX="-66" frameY="0" frameWidth="296" frameHeight="225" />
+<SubTexture name="thing down0000" x="475" y="252" width="140" height="123" frameX="-84" frameY="-47" frameWidth="296" frameHeight="225" />
+<SubTexture name="thing down0001" x="140" y="225" width="140" height="139" frameX="-84" frameY="-31" frameWidth="296" frameHeight="225" />
+<SubTexture name="thing down0002" x="0" y="225" width="140" height="179" frameX="-84" frameY="-7" frameWidth="296" frameHeight="225" />
+<SubTexture name="thing left0000" x="751" y="121" width="296" height="121" frameX="0" frameY="-49" frameWidth="296" frameHeight="225" />
+<SubTexture name="thing left0001" x="751" y="0" width="296" height="121" frameX="0" frameY="-49" frameWidth="296" frameHeight="225" />
+<SubTexture name="thing left0002" x="296" y="525" width="296" height="121" frameX="0" frameY="-49" frameWidth="296" frameHeight="225" />
+<SubTexture name="thing right0000" x="0" y="525" width="296" height="121" frameX="0" frameY="-49" frameWidth="296" frameHeight="225" />
+<SubTexture name="thing right0001" x="296" y="404" width="296" height="121" frameX="0" frameY="-49" frameWidth="296" frameHeight="225" />
+<SubTexture name="thing right0002" x="0" y="404" width="296" height="121" frameX="0" frameY="-49" frameWidth="296" frameHeight="225" />
+<SubTexture name="thing idle0000" x="179" y="0" width="296" height="225" frameX="0" frameY="0" frameWidth="296" frameHeight="225" />
+</TextureAtlas>

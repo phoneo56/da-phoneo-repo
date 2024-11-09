@@ -1,0 +1,3 @@
+mods/data/godmode/godmode.json
+mods/songs/godmode/Inst.ogg
+mods/songs/godmode/inst.ogg

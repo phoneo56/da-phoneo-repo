@@ -1,0 +1,4 @@
+mods/data/sillygoob/mod.txt
+mods/data/sillygoob/sillygoob.json
+mods/songs/sillygoob/Inst.ogg
+mods/songs/sillygoob/inst.ogg

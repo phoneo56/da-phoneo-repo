@@ -1,0 +1,4 @@
+mods/data/mold/mod.txt
+mods/data/mold/mold.json
+mods/songs/mold/Inst.ogg
+mods/songs/mold/inst.ogg

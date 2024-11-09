@@ -1,0 +1,16 @@
+texture = "noteSkins/NOTE_assets-silly"
+hitHealth = 0.023
+missHealth = 200.0475
+earlyHitMult = 1
+lateHitMult = 1
+lowPriority = true
+blockHit = false
+offsetX = 0
+offsetY = 0
+offsetAngle = 0
+multAlpha = 1
+multSpeed = 1
+ratingDisabled = false
+noAnimation = false
+noMissAnimation = false
+hitCausesMiss = false

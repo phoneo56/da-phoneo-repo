@@ -1,0 +1,6 @@
+mods/data/godmode/godmode.json
+mods/characters/ANGRY phoneo.json
+mods/images/characters/angry-phoneo.png
+mods/images/characters/angry-phoneo.xml
+mods/songs/godmode/Inst.ogg
+mods/songs/godmode/inst.ogg

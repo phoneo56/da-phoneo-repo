@@ -1,0 +1,6 @@
+mods/data/surface-but-4-keys/mod.txt
+mods/data/surface-but-4-keys/surface-but-4-keys.json
+mods/songs/surface-but-4-keys/Voices.ogg
+mods/songs/surface-but-4-keys/voices.ogg
+mods/songs/surface-but-4-keys/Inst.ogg
+mods/songs/surface-but-4-keys/inst.ogg

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="book.png">
+<SubTexture name="book bob0000" x="0" y="0" width="208" height="219" frameX="0" frameY="0" frameWidth="208" frameHeight="219" />
+<SubTexture name="book bob0001" x="208" y="0" width="208" height="219" frameX="0" frameY="0" frameWidth="208" frameHeight="219" />
+<SubTexture name="book bob0002" x="416" y="0" width="208" height="219" frameX="0" frameY="0" frameWidth="208" frameHeight="219" />
+<SubTexture name="book bob0003" x="0" y="219" width="208" height="219" frameX="0" frameY="0" frameWidth="208" frameHeight="219" />
+<SubTexture name="book bob0004" x="208" y="219" width="208" height="219" frameX="0" frameY="0" frameWidth="208" frameHeight="219" />
+</TextureAtlas>

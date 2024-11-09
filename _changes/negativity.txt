@@ -1,0 +1,6 @@
+mods/data/negativity/negativity.json
+mods/characters/ANGRY phoneo.json
+mods/images/characters/angry-phoneo.png
+mods/images/characters/angry-phoneo.xml
+mods/songs/negativity/Inst.ogg
+mods/songs/negativity/inst.ogg

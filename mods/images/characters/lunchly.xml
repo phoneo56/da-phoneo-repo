@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lunchly.png">
+<SubTexture name="lunchly idle0000" x="0" y="0" width="344" height="297" frameX="0" frameY="0" frameWidth="344" frameHeight="297" />
+<SubTexture name="lunchly left0000" x="344" y="0" width="344" height="297" frameX="0" frameY="0" frameWidth="344" frameHeight="297" />
+<SubTexture name="lunchly left0001" x="0" y="297" width="344" height="297" frameX="0" frameY="0" frameWidth="344" frameHeight="297" />
+<SubTexture name="lunchly left0002" x="344" y="297" width="344" height="297" frameX="0" frameY="0" frameWidth="344" frameHeight="297" />
+<SubTexture name="lunchly left0003" x="688" y="0" width="344" height="297" frameX="0" frameY="0" frameWidth="344" frameHeight="297" />
+<SubTexture name="lunchly left0004" x="688" y="297" width="344" height="297" frameX="0" frameY="0" frameWidth="344" frameHeight="297" />
+<SubTexture name="lunchly right0000" x="0" y="594" width="344" height="297" frameX="0" frameY="0" frameWidth="344" frameHeight="297" />
+<SubTexture name="lunchly right0001" x="344" y="594" width="344" height="297" frameX="0" frameY="0" frameWidth="344" frameHeight="297" />
+<SubTexture name="lunchly right0002" x="688" y="594" width="344" height="297" frameX="0" frameY="0" frameWidth="344" frameHeight="297" />
+<SubTexture name="lunchly up0000" x="1032" y="0" width="344" height="297" frameX="0" frameY="0" frameWidth="344" frameHeight="297" />
+<SubTexture name="lunchly up0001" x="1032" y="297" width="344" height="297" frameX="0" frameY="0" frameWidth="344" frameHeight="297" />
+<SubTexture name="lunchly up0002" x="1032" y="594" width="344" height="297" frameX="0" frameY="0" frameWidth="344" frameHeight="297" />
+<SubTexture name="lunchly up0003" x="0" y="891" width="344" height="297" frameX="0" frameY="0" frameWidth="344" frameHeight="297" />
+<SubTexture name="lunchly down0000" x="344" y="891" width="344" height="297" frameX="0" frameY="0" frameWidth="344" frameHeight="297" />
+<SubTexture name="lunchly down0001" x="688" y="891" width="344" height="297" frameX="0" frameY="0" frameWidth="344" frameHeight="297" />
+<SubTexture name="lunchly down0002" x="1032" y="891" width="344" height="297" frameX="0" frameY="0" frameWidth="344" frameHeight="297" />
+<SubTexture name="lunchly down0003" x="688" y="594" width="344" height="297" frameX="0" frameY="0" frameWidth="344" frameHeight="297" />
+<SubTexture name="lunchly attack0000" x="1376" y="0" width="344" height="297" frameX="0" frameY="0" frameWidth="344" frameHeight="297" />
+<SubTexture name="lunchly attack0001" x="1376" y="297" width="344" height="297" frameX="0" frameY="0" frameWidth="344" frameHeight="297" />
+<SubTexture name="lunchly attack0002" x="1376" y="594" width="344" height="297" frameX="0" frameY="0" frameWidth="344" frameHeight="297" />
+<SubTexture name="lunchly attack0003" x="1376" y="891" width="344" height="297" frameX="0" frameY="0" frameWidth="344" frameHeight="297" />
+</TextureAtlas>

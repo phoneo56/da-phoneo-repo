@@ -1,0 +1,4 @@
+mods/data/debase/debase.json
+mods/data/debase/mod.txt
+mods/songs/debase/Inst.ogg
+mods/songs/debase/inst.ogg

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sillygoob.png">
+<SubTexture name="sillygoob idle0000" x="0" y="0" width="700" height="700" frameX="0" frameY="0" frameWidth="700" frameHeight="700" />
+<SubTexture name="sillygoob left0000" x="0" y="0" width="700" height="700" frameX="0" frameY="0" frameWidth="700" frameHeight="700" />
+<SubTexture name="sillygoob down0000" x="0" y="0" width="700" height="700" frameX="0" frameY="0" frameWidth="700" frameHeight="700" />
+<SubTexture name="sillygoob up0000" x="0" y="0" width="700" height="700" frameX="0" frameY="0" frameWidth="700" frameHeight="700" />
+<SubTexture name="sillygoob right0000" x="0" y="0" width="700" height="700" frameX="0" frameY="0" frameWidth="700" frameHeight="700" />
+</TextureAtlas>

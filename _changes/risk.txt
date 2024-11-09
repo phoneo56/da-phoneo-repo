@@ -1,0 +1,4 @@
+mods/data/risk/mod.txt
+mods/data/risk/risk.json
+mods/songs/risk/Inst.ogg
+mods/songs/risk/inst.ogg

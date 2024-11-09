@@ -1,0 +1,3 @@
+mods/data/negative-godmode/negative-godmode.json
+mods/songs/negative-godmode/Inst.ogg
+mods/songs/negative-godmode/inst.ogg

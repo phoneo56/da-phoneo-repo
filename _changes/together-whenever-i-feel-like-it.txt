@@ -1,0 +1,4 @@
+mods/data/together-whenever-i-feel-like-it/mod.txt
+mods/data/together-whenever-i-feel-like-it/together-whenever-i-feel-like-it.json
+mods/songs/together-whenever-i-feel-like-it/Inst.ogg
+mods/songs/together-whenever-i-feel-like-it/inst.ogg

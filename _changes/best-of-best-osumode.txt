@@ -1,0 +1,6 @@
+mods/data/best-of-best/best-of-best-hell.json
+mods/data/best-of-best/mod.txt
+mods/songs/best-of-best/Voices.ogg
+mods/songs/best-of-best/voices.ogg
+mods/songs/best-of-best/Inst.ogg
+mods/songs/best-of-best/inst.ogg

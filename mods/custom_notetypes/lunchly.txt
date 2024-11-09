@@ -1,0 +1,16 @@
+texture = "noteSkins/NOTE_assets-lunch"
+hitHealth = -0.377
+missHealth = 25.0505
+earlyHitMult = 1
+lateHitMult = 1
+lowPriority = false
+blockHit = false
+offsetX = 0
+offsetY = 0
+offsetAngle = 0
+multAlpha = 1
+multSpeed = 1
+ratingDisabled = false
+noAnimation = false
+noMissAnimation = false
+hitCausesMiss = false

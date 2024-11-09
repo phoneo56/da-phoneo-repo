@@ -1,0 +1,4 @@
+mods/data/drippy-cheese/drippy-cheese.json
+mods/data/drippy-cheese/mod.txt
+mods/songs/drippy-cheese/Inst.ogg
+mods/songs/drippy-cheese/inst.ogg
